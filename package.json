@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "highlight.js": "^11.9.0",
+    "html-pdf": "^3.0.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-plain-text": "^0.3.0",
+    "markdown-pdf": "^11.0.0",
+    "md-to-pdf": "^5.2.4",
+    "node-fetch": "^3.3.2",
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^22.6.5"
+  }
+}
